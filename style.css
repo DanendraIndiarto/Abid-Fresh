@@ -842,8 +842,8 @@ input {
 
 .product-grid {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 24px;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 26px;
     margin-bottom: 56px;
 }
 
@@ -906,6 +906,11 @@ input {
 
 .product-badge.hot {
     background: var(--brand-red);
+    color: #ffffff;
+}
+
+.product-badge.new {
+    background: linear-gradient(135deg, var(--green-700), var(--green-600));
     color: #ffffff;
 }
 

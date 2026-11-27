@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://abidfresh.vercel.app/</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://abidfresh.vercel.app/img/semuakemasan.png</image:loc>
+      <image:title>Semua Kemasan Minuman Sari Buah Belimbing Abid Fresh</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://abidfresh.vercel.app/img/1.png</image:loc>
+      <image:title>Botol Minuman Belimbing Abid Fresh 330 ml</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://abidfresh.vercel.app/img/2.png</image:loc>
+      <image:title>Minuman Gelas Cup 120 ml Abid Fresh</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://abidfresh.vercel.app/img/manisanbelimbing.jpg</image:loc>
+      <image:title>Manisan Belimbing Abid Fresh Isi 4 Cup</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://abidfresh.vercel.app/img/manisanpepaya.jpg</image:loc>
+      <image:title>Display Kemasan Mika Jinjing Manisan Pepaya dan Manisan Belimbing Abid Fresh</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://abidfresh.vercel.app/img/manisanpepaya2.jpg</image:loc>
+      <image:title>Manisan Pepaya Abid Fresh Isi 4 Cup</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://abidfresh.vercel.app/img/penjelasan.png</image:loc>
+      <image:title>Kesegaran Sari Buah Belimbing Abid Fresh Dingin Lebih Nikmat</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://abidfresh.vercel.app/img/lengkap.png</image:loc>
+      <image:title>Etalase UMKM Abid Fresh Desa Jarakan Tulungagung</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://abidfresh.vercel.app/img/surat.jpg</image:loc>
+      <image:title>Izin Edar Pangan Olahan BPOM RI Abid Fresh</image:title>
+    </image:image>
+  </url>
+</urlset>

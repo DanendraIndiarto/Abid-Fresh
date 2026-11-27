@@ -1,0 +1,21 @@
+{
+  "name": "Abid Fresh – Sari Buah Belimbing Khas Tulungagung",
+  "short_name": "Abid Fresh",
+  "description": "Website resmi UMKM Abid Fresh (Kelompok Agro Cipta Mandiri, Tulungagung).",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbfbf6",
+  "theme_color": "#144526",
+  "icons": [
+    {
+      "src": "/img/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
